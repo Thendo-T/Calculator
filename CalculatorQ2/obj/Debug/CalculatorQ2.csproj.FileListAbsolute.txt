@@ -1,0 +1,9 @@
+C:\Users\khuth\source\repos\CalculatorQ2\CalculatorQ2\obj\Debug\CalculatorQ2.csprojAssemblyReference.cache
+C:\Users\khuth\source\repos\CalculatorQ2\CalculatorQ2\obj\Debug\CalculatorQ2.Form1.resources
+C:\Users\khuth\source\repos\CalculatorQ2\CalculatorQ2\obj\Debug\CalculatorQ2.Properties.Resources.resources
+C:\Users\khuth\source\repos\CalculatorQ2\CalculatorQ2\obj\Debug\CalculatorQ2.csproj.GenerateResource.cache
+C:\Users\khuth\source\repos\CalculatorQ2\CalculatorQ2\bin\Debug\CalculatorQ2.exe.config
+C:\Users\khuth\source\repos\CalculatorQ2\CalculatorQ2\bin\Debug\CalculatorQ2.exe
+C:\Users\khuth\source\repos\CalculatorQ2\CalculatorQ2\bin\Debug\CalculatorQ2.pdb
+C:\Users\khuth\source\repos\CalculatorQ2\CalculatorQ2\obj\Debug\CalculatorQ2.exe
+C:\Users\khuth\source\repos\CalculatorQ2\CalculatorQ2\obj\Debug\CalculatorQ2.pdb
