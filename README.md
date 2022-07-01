@@ -9,12 +9,11 @@ A simple calculator component. feel free to add what you feel necessary.
     <a href="https://github.com/Thendo-T/Calculator/"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-  
-    <a href="https://github.com/Thendo-T/Calculator/issues">Report Bug</a>
-    .
-    <a href="https://github.com/Thendo-T/Calculator/issues">Request Feature</a>
   </p>
 </p>
+
+- [Report Bug](https://github.com/Thendo-T/Calculator/issues)
+- [Request Feature](https://github.com/Thendo-T/Calculator/issues)
 
 ![Contributors](https://img.shields.io/github/contributors/Thendo-T/Calculator?color=dark-green) ![Issues](https://img.shields.io/github/issues/Thendo-T/Calculator) ![License](https://img.shields.io/github/license/Thendo-T/Calculator) 
 
