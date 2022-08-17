@@ -29,7 +29,7 @@ namespace CalculatorQ2
 
         private void btnCE_Click(object sender, EventArgs e)
         {
-          
+
         }
 
         private void btn1_Click(object sender, EventArgs e)
@@ -74,7 +74,7 @@ namespace CalculatorQ2
 
         private void btn9_Click(object sender, EventArgs e)
         {
-            txtDisplay.Text =txtDisplay.Text+ "9";
+            txtDisplay.Text = txtDisplay.Text + "9";
         }
 
         private void btn0_Click(object sender, EventArgs e)
@@ -89,7 +89,7 @@ namespace CalculatorQ2
 
         private void btnC_Click(object sender, EventArgs e)
         {
-  txtDisplay.Clear();
+            txtDisplay.Clear();
         }
     }
 }
