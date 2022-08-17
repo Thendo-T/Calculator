@@ -7,3 +7,14 @@ C:\Users\khuth\source\repos\CalculatorQ2\CalculatorQ2\bin\Debug\CalculatorQ2.exe
 C:\Users\khuth\source\repos\CalculatorQ2\CalculatorQ2\bin\Debug\CalculatorQ2.pdb
 C:\Users\khuth\source\repos\CalculatorQ2\CalculatorQ2\obj\Debug\CalculatorQ2.exe
 C:\Users\khuth\source\repos\CalculatorQ2\CalculatorQ2\obj\Debug\CalculatorQ2.pdb
+C:\Users\ZM_Indore\Source\Repos\Calculator1\CalculatorQ2\bin\Debug\CalculatorQ2.exe.config
+C:\Users\ZM_Indore\Source\Repos\Calculator1\CalculatorQ2\bin\Debug\CalculatorQ2.exe
+C:\Users\ZM_Indore\Source\Repos\Calculator1\CalculatorQ2\bin\Debug\CalculatorQ2.pdb
+C:\Users\ZM_Indore\Source\Repos\Calculator1\CalculatorQ2\obj\Debug\CalculatorQ2.csproj.AssemblyReference.cache
+C:\Users\ZM_Indore\Source\Repos\Calculator1\CalculatorQ2\obj\Debug\CalculatorQ2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ZM_Indore\Source\Repos\Calculator1\CalculatorQ2\obj\Debug\CalculatorQ2.Form1.resources
+C:\Users\ZM_Indore\Source\Repos\Calculator1\CalculatorQ2\obj\Debug\CalculatorQ2.Properties.Resources.resources
+C:\Users\ZM_Indore\Source\Repos\Calculator1\CalculatorQ2\obj\Debug\CalculatorQ2.csproj.GenerateResource.cache
+C:\Users\ZM_Indore\Source\Repos\Calculator1\CalculatorQ2\obj\Debug\CalculatorQ2.csproj.CoreCompileInputs.cache
+C:\Users\ZM_Indore\Source\Repos\Calculator1\CalculatorQ2\obj\Debug\CalculatorQ2.exe
+C:\Users\ZM_Indore\Source\Repos\Calculator1\CalculatorQ2\obj\Debug\CalculatorQ2.pdb
